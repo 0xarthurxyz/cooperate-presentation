@@ -8,6 +8,7 @@ math: mathjax
 
 ### Introducing SocialConnect and rediscovering Celo's fee currency feature
 
+Presentation on Github: [0xarthurxyz/cooperate-presentation](https://github.com/0xarthurxyz/cooperate-presentation)
 <!-- Speaker: Arthur Gousset
 Date: Wed, Jul 19 2023 -->
 
