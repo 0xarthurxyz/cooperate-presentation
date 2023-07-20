@@ -1,4 +1,4 @@
-# Co:OPERATE Presentation
+# 📽️ Co:OPERATE Presentation
 
 A repository containing the slides for my presentation at Co:Operate in Paris, France (2023)🇫🇷
 
