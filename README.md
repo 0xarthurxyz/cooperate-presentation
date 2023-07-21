@@ -1,4 +1,4 @@
-# 📽️ Co:OPERATE Presentation
+# Co:OPERATE Presentation
 
 A repository with the material for my presentation at Co:Operate 🇫🇷
 
